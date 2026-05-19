@@ -8,10 +8,10 @@
 * 🌱 **I'm currently learning:** Advanced Machine Learning, Data Structures & Algorithms, and Full Stack Development concepts
 * 👯 **I'm looking to collaborate on:** AI/ML projects, Data Analytics solutions, and real-world problem-solving applications
 * 🤔 **I'm looking for help with:** Advanced competitive programming and deploying machine learning models in production environments
-* 💬 **Ask me about:** Python, AI/ML projects, SPSS Modeler, Google Earth Engine, RAG systems, and my internship experience at PNB Bank (MSME Credit Project) and AI internship at Acmegrade
+* 💬 **Ask me about:** Python, AI/ML projects, Google Earth Engine, RAG systems, and my AI internship experience at Acmegrade
 * 📫 **How to reach me:** [tejashwiniyadav2005@gmail.com](mailto:tejashwiniyadav2005@gmail.com)
 * 😄 **Pronouns:** She/Her
-* ⚡ **Fun fact:** I enjoy transforming data into meaningful solutions — from banking credit insights (MSME project at PNB) to health and environmental tracking systems 🌍
+* ⚡ **Fun fact:** I love turning complex data into clear insights — from tracking mental health patterns to optimizing personalized learning paths using AI 🧠
 * 
 
 ## 🌐 Socials:
